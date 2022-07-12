@@ -1,4 +1,4 @@
-data = {
+data {
 "user": "Dekura",
 "pass": "test",
 "key": "23"
